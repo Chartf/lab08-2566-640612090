@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Task(props) {
   return (
     <div className="d-flex p-3 gap-2 align-items-center border-bottom">

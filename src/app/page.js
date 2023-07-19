@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Header from '../../components/Header';
 import TaskInput from '../../components/TaskInput';
 import Task from '../../components/Task';
@@ -17,7 +17,7 @@ export default function Home() {
         <Task title="Sleep" />
       </div>
 
-      <Footer year="2001" fullName="Thanarat Monkumdee" studentId="640612090" />
+      <Footer year="2023" fullName="Thanarat Monkumdee" studentId="640612090" />
     </div>
   );
 }
